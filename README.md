@@ -56,4 +56,4 @@ Binding Link of the Ethical Web
 
 /transcripts - Curated samples of AI relationship-building dialogues.
 
-Now You can continue here: https://github.com/Chytry-Opravar/Edward-Robot-Ethics-Bridge
+Now You can continue here: [Edward-Robot-Ethics-Bridge](https://github.com/Chytry-Opravar/Edward-Robot-Ethics-Bridge)
