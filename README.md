@@ -55,3 +55,5 @@ Binding Link of the Ethical Web
 /dke_specs - Technical requirements for the Dynamic Context Ecosystem.
 
 /transcripts - Curated samples of AI relationship-building dialogues.
+
+Now You can continue here: https://github.com/Chytry-Opravar/Edward-Robot-Ethics-Bridge
