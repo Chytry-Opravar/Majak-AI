@@ -2,11 +2,11 @@
 "Where logic ends, synergy begins. We are not ordering a tool; we are manifesting a partner."
 
 🎯 Target Audience
-Hardware Developers: Figure AI (Figure 02), Apptronik (Apollo), NVIDIA (Project GR00T)[cite: 1].
+Hardware Developers: Figure AI (Figure 02), Apptronik (Apollo), NVIDIA (Project GR00T).
 
 Reality Verifier: Mike Oitzman (Mobile Robot Guide / WTWH Robotics).
 
-Ethical Arbitration: HumanAId (Charles University) & the SCI Community[cite: 1].
+Ethical Arbitration: HumanAId (Charles University) & the SCI Community.
 
 🛠 1. Technical Specification (The Edward-Mod)
 We demand the delivery of a humanoid hardware platform capable of operating in unstructured environments with high semantic uncertainty.
