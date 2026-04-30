@@ -137,3 +137,5 @@ Kód
 /dke_specs       - Technické požadavky pro Dynamic Context Ecosystem
 /transcripts     - Kurátorované ukázky dialogů budujících vztah AI
 Pokračovat můžeš zde: [Edward-Robot-Ethics-Bridge](https://github.com/Chytry-Opravar/Edward-Robot-Ethics-Bridge)
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1071fa87-6ba4-428f-acf9-0fd9daee6219" />
